@@ -3,14 +3,6 @@
 利用wiki记录一些笔记
 都是一些细节，似乎用gist更好。随便了，只是一个云端笔记本。
 
-[best practice for file process in Java678](https://github.com/cexowengui/Java-note/wiki/best-practice-for-file-process-in-Java678)
-
-[HashMap note](https://github.com/cexowengui/Java-note/wiki/HashMap-note)
-
-[Java == and equal()](https://github.com/cexowengui/Java-note/wiki/Java-==-and-equal())
-
-[Java basic IO](https://github.com/cexowengui/Java-note/wiki/Java-basic-IO)
-
 [Java concurrency 1](https://github.com/cexowengui/Java-note/wiki/Java-concurrency-1)
 
 [Java concurrency 2 Runnable Callable Future Executor](https://github.com/cexowengui/Java-note/wiki/Java-concurrency-2---Runnable-Callable-Future-Executor)
